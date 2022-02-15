@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">whackamole</string>
+    <string name="help">Tap on mole to win !</string>
+</resources>
